@@ -98,7 +98,7 @@ function Home() {
           <h1>
             Discover Your
             <br />
-            Nexxt <span>Favorite Game</span>
+            Next <span>Favorite Game</span>
           </h1>
 
           <p className="hero-description">
